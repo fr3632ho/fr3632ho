@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - :robot: Dabbled with ML in *TensorFlow* using *Keras*.
 - :mailbox: You can reach me with the links below
 
+## Languages I use
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
