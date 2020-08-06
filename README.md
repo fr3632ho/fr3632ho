@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 #### Some of the technologies I have worked with
 ![TF](https://img.shields.io/endpoint?color=green&label=TensorFlow&logo=%23FF6F00&logoColor=red&style=for-the-badge&url=%23FF6F00)
+<img height="32" width="32" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/tensorflow.svg" />
