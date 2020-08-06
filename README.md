@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrik.dannert@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrikhd/)
-[![Kattis](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://open.kattis.com/users/fr3632ho)
 
 
 
