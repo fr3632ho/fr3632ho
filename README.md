@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - :robot: Dabbled with ML in *TensorFlow* using *Keras*.
 - :mailbox: You can reach me with the links below
 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrik.dannert@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrikhd/)
+
+
 ## Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
