@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell)
 
 #### Some of the technologies I have worked with
-![TF](https://img.shields.io/endpoint?color=green&label=TensorFlow&logo=%23FF6F00&logoColor=red&style=for-the-badge&url=%23FF6F00)
-<img height="32" width="32" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/tensorflow.svg" />
-![XCode](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=1575F9)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=1575F9)
+![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=1575F9)
