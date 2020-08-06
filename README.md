@@ -37,3 +37,12 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Numpy-222222?style=flat&logo=Numpy&logoColor=yellow)
+
+Some philosophy:
+```python
+# Which came first: the chicken or the egg?
+print(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+
