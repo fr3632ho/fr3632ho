@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Introduction
-:triangular_ruler: Engineer student currently attending my third year of computer science at Lunds faculty of engineering.
+#### Welcome to my profile! 
+1) :triangular_ruler: Engineer student currently attending my third year of computer science at Lunds faculty of engineering.
+2) :blue_book: Avid learner and almost always have too much on my plate
+3) :runner: Health is key.
