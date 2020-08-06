@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=150 height=150> Hi, I'm Fred 
+# <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=150 height=150> Hi, I'm Fred 
 - :black_square_button: Health Nut | :white_square_button: Outdoorsy  | :black_square_button: Avid learner  
 - :school_satchel: Third year computer science student with a buring interest for anythin which involves mathmatics and code  
 - :blue_book: Currently working daily on my competetive programming skill set through [Kattis](https://open.kattis.com/users/fr3632ho)
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrik.dannert@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrikhd/)
 
-### Languages I use
+## Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell)
 
-### Some of the technologies I have worked with
+## Some of the technologies I have worked with
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=red)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
 ![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
