@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
+![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
