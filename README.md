@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=purple)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=blue)
 ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
-![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=green)
+![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=white)
 
 ## Some of the technologies I have worked with
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=red)
