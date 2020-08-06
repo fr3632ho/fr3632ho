@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Welcome to my profile! ![](https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif =250x250)
-
-<img src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=250 height=250 >
+#### Welcome to my profile! <img src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=250 height=250>
 Everything that involves mathmatics is something i'll get involved with.
