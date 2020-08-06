@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=red)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
 ![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
