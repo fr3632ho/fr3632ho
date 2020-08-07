@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Numpy-222222?style=flat&logo=Numpy&logoColor=yellow)
 
+## Current projects
+- 
 Some philosophy:
 ```python
 # Which came first: the chicken or the egg?
@@ -45,4 +47,5 @@ print(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+Maybe…
 
