@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Numpy-222222?style=flat&logo=Numpy&logoColor=yellow)
+![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=Slack&logoColor=blue)
 
 ## Current projects
 - <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> My [kattis](https://github.com/fr3632ho/kattis) repository
