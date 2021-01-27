@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 # <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=150 height=150> Hi, I'm Fred 
-- :black_square_button: Health Nut | :white_square_button: Outdoorsy  | :black_square_button: Avid learner  
+- Health Nut | Outdoorsy  | Avid learner  
 - :school_satchel: Third year computer science student with a buring interest for anything which involves mathmatics or code  
 - <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/google.svg" width=14 height=14> Current participant in Google Foobar Challenge
 - :blue_book: Currently working daily on my competetive programming skill set through [Kattis](https://open.kattis.com/users/fr3632ho)
