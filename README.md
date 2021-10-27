@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Fred 
 - Health Nut | Outdoorsy  | Avid learner  
-- :school_satchel: Fourth year computer science student with interest for competitive programming  
+- :school_satchel: Fourth year computer science student working on MSc in Software Development with interest for competitive programming  
 - :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho)
 - :mailbox: You can reach me with the links below
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-100000?style=flat&logo=haskell)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
 ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=red)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
 ![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Numpy-222222?style=flat&logo=Numpy&logoColor=yellow)
 ![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=Slack&logoColor=blue)
