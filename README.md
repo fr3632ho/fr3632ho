@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=Slack&logoColor=blue)
 
 ## Current projects
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> My [kattis](https://github.com/fr3632ho/kattis) repository
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Google Foobar](https://github.com/fr3632ho/google_challenge) problems i've completed thus far
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Fourier Transform/series](https://github.com/fr3632ho/fourier-series), still got a bit left to do on this one
+- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> My [kattis](https://github.com/fr3632ho/kattis) repository. See link above to my account if you are interested in rankings
+- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Google Foobar](https://github.com/fr3632ho/google_challenge) Google Foobar challenge repository
+- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Fourier Transform/series](https://github.com/fr3632ho/fourier-series), Still left with a few bugs to fix
 
 Some philosophy:
 ```python
