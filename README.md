@@ -12,12 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/gifs/fourier1.gif" width=150 height=150> Hi, I'm Fred 
+# Hi, I'm Fred 
 - Health Nut | Outdoorsy  | Avid learner  
-- :school_satchel: Third year computer science student with a buring interest for anything which involves mathmatics or code  
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/google.svg" width=14 height=14> Current participant in Google Foobar Challenge
-- :blue_book: Currently working daily on my competetive programming skill set through [Kattis](https://open.kattis.com/users/fr3632ho)
-- :robot: I dabble with ML using *TensorFlow* for various projects
+- :school_satchel: Fourth year computer science student with interest for competitive programming  
+- :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho)
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrik.dannert@gmail.com)
