@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-100000?style=flat&logo=haskell)
+![C++](https://img.shields.io/badge/-C++-100000?style=flat&logo=C++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
 ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
