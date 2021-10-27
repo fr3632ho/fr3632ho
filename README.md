@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Fred 
 - Health Nut | Outdoorsy  | Avid learner  
 - :school_satchel: Fourth year computer science student working on MSc in Software Development with interest for competitive programming  
-- :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho)
+- :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho), link to my Kattis account where I practice the most for coming competitions
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredrik.dannert@gmail.com)
