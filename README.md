@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 
 
 ## Technologies
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) work on GPU accelerators using the CUDA toolkit
-![git](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  -  Work on GPU accelerators using the CUDA toolkit
+
+![git](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue) 
 ![gdb](https://img.shields.io/badge/-gdb-222222?style=flat&logo=gdb&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=white)
 
