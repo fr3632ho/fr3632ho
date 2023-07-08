@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my page.. 
-- 
+- ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white) Research Intern at Huawei Technologies
 - :school_satchel: Fifth year CS - low-level and high performance systems - TA in algorithms & datastructures, multicore programming and efficient C
 - :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho), link to my Kattis account where I practice the most for coming competitions
 - :mailbox: You can reach me with the links below
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## Technologies
-![CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) work on GPU accelerators using the CUDA toolkit
 ![git](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
 ![gdb](https://img.shields.io/badge/-gdb-222222?style=flat&logo=gdb&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=white)
