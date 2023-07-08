@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my page.. 
-![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)  -  Research Intern at Huawei Technologies
+Currently working for: ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)  -  Research Intern at Huawei Technologies
 - :school_satchel: Fifth year CS - low-level and high performance systems - TA in algorithms & datastructures, multicore programming and efficient C
 - :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho), link to my Kattis account where I practice the most for coming competitions
 - :mailbox: You can reach me with the links below
@@ -28,12 +28,16 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
-## Technologies
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  -  Work on GPU accelerators using the CUDA toolkit
+## Technologies, Tools & Gear
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 
 ![git](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue) 
 ![gdb](https://img.shields.io/badge/-gdb-222222?style=flat&logo=gdb&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=white)
+
 
 ## Extracurricular Projects (when I have time)
 - <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> My [kattis](https://github.com/fr3632ho/kattis) repository. See link above to my account if you are interested in rankings
