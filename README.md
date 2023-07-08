@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my page.. 
-- ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white) Research Intern at Huawei Technologies
+![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)  -  Research Intern at Huawei Technologies
 - :school_satchel: Fifth year CS - low-level and high performance systems - TA in algorithms & datastructures, multicore programming and efficient C
 - :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho), link to my Kattis account where I practice the most for coming competitions
 - :mailbox: You can reach me with the links below
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Languages I use
 ![C++](https://img.shields.io/badge/-C++-100000?style=flat&logo=C++)
-![C](https://img.shields.io/badge/-C-100000?style=flat&logo=C)
+![C](https://img.shields.io/badge/--100000?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
