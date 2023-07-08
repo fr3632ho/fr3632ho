@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Fred 
-- Health Nut | Outdoorsy  | Avid learner  
-- :school_satchel: Fourth year computer science student working on MSc in Software Development with interest for competitive programming  
+# Welcome to my page.. 
+- 
+- :school_satchel: Fifth year CS - low-level and high performance systems - TA in algorithms & datastructures, multicore programming and efficient C
 - :blue_book: [Kattis](https://open.kattis.com/users/fr3632ho), link to my Kattis account where I practice the most for coming competitions
 - :mailbox: You can reach me with the links below
 
@@ -22,29 +22,21 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrikhd/)
 
 ## Languages I use
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-100000?style=flat&logo=C++)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
-![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
-![Haskell](https://img.shields.io/badge/-Haskell-100000?style=flat&logo=haskell)
+![C](https://img.shields.io/badge/-C-100000?style=flat&logo=C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-## Some of the technologies I have worked with
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-222222?style=flat&logo=TensorFlow&logoColor=red)
-![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
-![Keras](https://img.shields.io/badge/-Keras-222222?style=flat&logo=Keras&logoColor=white)
+
+## Technologies
+![CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+![git](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=BitBucket&logoColor=blue)
+![gdb](https://img.shields.io/badge/-gdb-222222?style=flat&logo=gdb&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat&logo=Pandas&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Numpy-222222?style=flat&logo=Numpy&logoColor=yellow)
-![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=Slack&logoColor=blue)
 
 ## Extracurricular Projects (when I have time)
 - <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> My [kattis](https://github.com/fr3632ho/kattis) repository. See link above to my account if you are interested in rankings
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Google Foobar](https://github.com/fr3632ho/google_challenge) Google Foobar challenge repository
-- <img aling="left" src="https://github.com/fr3632ho/fr3632ho/blob/master/svg/github.svg" width=14 height=14> [Fourier Transform/series](https://github.com/fr3632ho/fourier-series), Still left with a few bugs to fix
 
-Some philosophy:
 ```python
 # Which came first: the chicken or the egg?
 print(['🥚', '🐣', '🐥', '🐔'].sort())
